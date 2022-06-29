@@ -2,7 +2,7 @@
 
 Utilizing Textbook as guide for Front-end Web Development. 
 
-Textbook: 
+Textbook: Front-End Web Development - Chris Aquino and Todd Gandee
 
 Created by Minkyu R. Park
 
